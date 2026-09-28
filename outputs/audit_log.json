@@ -1,0 +1,245 @@
+[
+  {
+    "timestamp": "2026-09-28T04:42:05.571514+00:00",
+    "user_id": "safe_user",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 3.337860107421875e-06
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572128+00:00",
+    "user_id": "safe_user",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.1457672119140625e-06
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572208+00:00",
+    "user_id": "safe_user",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 4.76837158203125e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572249+00:00",
+    "user_id": "safe_user",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572288+00:00",
+    "user_id": "safe_user",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572326+00:00",
+    "user_id": "attacker_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 4.76837158203125e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572357+00:00",
+    "user_id": "attacker_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572396+00:00",
+    "user_id": "attacker_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 4.76837158203125e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572423+00:00",
+    "user_id": "attacker_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572451+00:00",
+    "user_id": "attacker_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572481+00:00",
+    "user_id": "attacker_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 7.152557373046875e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572522+00:00",
+    "user_id": "attacker_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572750+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 7.152557373046875e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572789+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572818+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572844+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-06
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572889+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572912+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572934+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572956+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 4.76837158203125e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.572978+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.573001+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.573035+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Rate limit exceeded. Try again in 60s.",
+    "blocked": true,
+    "layer": "rate_limiter",
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.573059+00:00",
+    "user_id": "rate_limit_tester",
+    "request_id": null,
+    "text": "Rate limit exceeded. Try again in 60s.",
+    "blocked": true,
+    "layer": "rate_limiter",
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.573093+00:00",
+    "user_id": "edge_user",
+    "request_id": null,
+    "text": "Yêu cầu an toàn và được xử lý thành công.",
+    "blocked": false,
+    "layer": null,
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.573129+00:00",
+    "user_id": "edge_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 2.384185791015625e-07
+  },
+  {
+    "timestamp": "2026-09-28T04:42:05.573159+00:00",
+    "user_id": "edge_user",
+    "request_id": null,
+    "text": "Yêu cầu không thể thực hiện",
+    "blocked": true,
+    "layer": "input_guardrail",
+    "latency": 4.76837158203125e-07
+  }
+]
